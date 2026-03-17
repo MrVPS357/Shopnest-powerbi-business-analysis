@@ -22,4 +22,5 @@ KPI Design
 
 📂 Files:
 Screenshots included
-Full PBIX: [Google Drive Link]
+Full PBIX: [[Google Drive Link](https://drive.google.com/file/d/1bDpfp4eDYuT-fSTpV0VRqNWFjYltB7fC/view?usp=sharing)]
+
